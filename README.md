@@ -40,7 +40,7 @@ CUDA_VISIBLE_DEVICES=gpu_num python main.py --eps 0 --sp 0.8 --align 100.0 --et 
 
 ## Citation
 
-If you find the code useful, please consider citing the following paper:
+If you find the code useful, please cite us as:
 
 ```tex
 @inproceedings{chen2022differential,
